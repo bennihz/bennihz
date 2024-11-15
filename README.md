@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014<br>🔭 I’m currently working on Learndecks<br>📚 I'm currently learning ML and C++</p>
+<p align="left">✨ Creating bugs since 2014<br>🔭 I’m currently working on The Cardinal<br>📚 I'm currently learning AWS and CI/CD</p>
 
 ###
 
