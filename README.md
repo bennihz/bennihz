@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014<br>🔭 I’m currently working on The Cardinal<br>📚 I'm currently learning AWS and CI/CD</p>
+<p align="left">✨ Creating bugs since 2014<br>🔭 I’m currently working on my Bachelor thesis Galatea and fischereiverein-muenchen.de<br>📚 I'm currently learning DevOps :)</p>
 
 ###
 
