@@ -2,15 +2,10 @@
 
 ###
 
-<p align="left">My name is Benjamin and I'm a Webdeveloper and CS Student from Munich.</p>
+<p align="left">My name is Benjamin and I'm a Fullstack-Developer and Computer Science Student at TUM.</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2014<br>🔭 I’m currently working on my Bachelor thesis Galatea and fischereiverein-muenchen.de<br>📚 I'm currently learning DevOps :)</p>
 
 ###
 
